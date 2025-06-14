@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Emanuel  
+- Certification: Web Developer from Meta  
 
 ## Instructions
 Please replace the placeholders with your details:
